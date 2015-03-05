@@ -14,23 +14,37 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "251BBCD91AA8C58200A2C44D"
-               BuildableName = "SampleProject.app"
-               BlueprintName = "SampleProject"
-               ReferencedContainer = "container:SampleProject.xcodeproj">
+               BlueprintIdentifier = "C0E2F2F2302E401272C342C3"
+               BuildableName = "libPods-SampleProject Tests.a"
+               BlueprintName = "Pods-SampleProject Tests"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "251BBCF21AA8C58200A2C44D"
-               BuildableName = "SampleProjectTests.xctest"
-               BlueprintName = "SampleProjectTests"
+               BlueprintIdentifier = "78414F19CC71205C76447E6F"
+               BuildableName = "libPods-SampleProject Tests-KIF.a"
+               BlueprintName = "Pods-SampleProject Tests-KIF"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "251BBCD91AA8C58200A2C44D"
+               BuildableName = "SampleProject.app"
+               BlueprintName = "SampleProject"
                ReferencedContainer = "container:SampleProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
